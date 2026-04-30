@@ -13,6 +13,7 @@ This repository contains data, analysis scripts, and supporting materials for th
 | region      | Sales region                 | 
 
 # License
+This project is licensed under the MIT License. You are welcome to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, as long as you include the original copyright notice and license in any copies or substantial portions of the project.
 
 # Contact 
 Jonathan Lanz, Ph.D. \
