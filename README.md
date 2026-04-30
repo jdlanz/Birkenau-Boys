@@ -14,7 +14,7 @@ Data for this project was collected as part of a doctoral dissertation completed
 | region      | Sales region                 | 
 
 # Data Sources 
-All data in this repository was sources from the following archives: United States Holocaust Memorial Museum, State Museum at Auschwitz-Birkenau, Jewish Museum Berlin, Yad Vashem, The Wiener Library. 
+All data in this repository was sources from the following archives: United States Holocaust Memorial Museum, State Museum at Auschwitz-Birkenau, Jewish Museum Berlin, Yad Vashem, The Wiener Library, and Beit Terezin. Additional biographical data was sourced from John Freund, Ed., _After those Fifty Years: Memories of the Birkenau Boys._ Toronto: Self-published, 2008. Specific archival collections and citations will soon be uploaded to this README.  
 
 # License
 This project is licensed under the MIT License. You are welcome to use, copy, modify, merge, publish, or distribute this data as long as you include the original copyright notice and license in any copies or substantial portions of the project.
