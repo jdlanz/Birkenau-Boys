@@ -8,7 +8,7 @@ This repository contains data, analysis scripts, and supporting materials for th
 # License
 
 # Contact 
-Jonathan Lanz, Ph.D. \\
-Assistant Professor of Digital History \\
-Aarhus University \\
+Jonathan Lanz, Ph.D. \
+Assistant Professor of Digital History \
+Aarhus University \
 jlanz@cas.au.dk
