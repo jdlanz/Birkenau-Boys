@@ -9,10 +9,10 @@ The following table contains explanations for all column names which do not cons
 
 | Column Name | Description                  |
 |-------------|------------------------------|
-| LastName          | Unique identifier            | 
-| FirstName        | Observation date             | 
-| BirkenauTransport       | Total sales in USD           | 
-| PostBirkenau      | Sales region                 | 
+| LastName          |           | 
+| FirstName        |              | 
+| BirkenauTransport       |          | 
+| PostBirkenau      |               | 
 
 # Data Sources 
 All data in this repository was sources from the following archives: United States Holocaust Memorial Museum, State Museum at Auschwitz-Birkenau, Jewish Museum Berlin, Yad Vashem, The Wiener Library, and Beit Terezin. Additional biographical data was sourced from John Freund, Ed., _After those Fifty Years: Memories of the Birkenau Boys._ Toronto: Self-published, 2008. Specific archival collections and citations will soon be uploaded to this README.  
