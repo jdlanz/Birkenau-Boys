@@ -7,10 +7,10 @@ Data for this project was collected as part of a doctoral dissertation completed
 # Requirements
 Users will require R (at least version 4.0.0) and RStudio (at least version 2024.09) to run the project's scripts. 
 
+# Usage 
+
 # Metadata 
 The following table contains explanations for all column names which do not consist of dates.
-
-# Usage 
 
 | Column Name | Description                  |
 |-------------|------------------------------|
