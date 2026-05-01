@@ -14,8 +14,8 @@ The following table contains explanations for all column names which do not cons
 | BirkenauTransport       |          | 
 | BirkenauNumber      |               | 
 | PostBirkenau      |               | 
-| Nationality      |               | 
-| DiedBeforeLiberation      |               | 
+| Nationality      | In which nation was the individual born              | 
+| DiedBeforeLiberation      | Is the individual alive on 1 May 1945              | 
 | PostwarNation     |               | 
 
 # Data Sources 
