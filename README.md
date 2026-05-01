@@ -13,7 +13,7 @@ The following table contains explanations for all column names which do not cons
 | FirstName        |  Chosen given name adopted after the war             | 
 | BirkenauTransport       | The German-assignned indicator given to train transports between Terezin and Birkenau         | 
 | BirkenauNumber      | The German-assigned prisoner number given to newly arrived prisoners              | 
-| PostBirkenau      | The concentration camps to which individuals were sent to after their forced departure from Birkenau             | 
+| PostBirkenau      | The concentration camps where individuals were sent to after their forced departure from Birkenau             | 
 | Nationality      | In which nation was the individual born              | 
 | DiedBeforeLiberation      | Is the individual alive on 1 May 1945              | 
 | PostwarNation     | The nation(s) where an individual emigrated to after the war              | 
