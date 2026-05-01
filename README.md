@@ -9,8 +9,8 @@ The following table contains explanations for all column names which do not cons
 
 | Column Name | Description                  |
 |-------------|------------------------------|
-| LastName          |           | 
-| FirstName        |              | 
+| LastName          | Legal surname assigned at birth          | 
+| FirstName        |  Chosen given name adopted after the war             | 
 | BirkenauTransport       |          | 
 | BirkenauNumber      |               | 
 | PostBirkenau      |               | 
