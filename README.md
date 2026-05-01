@@ -2,7 +2,7 @@
 This repository contains data, analysis scripts, and supporting materials for the study of a group of Holocaust survivors known as the Birkenau Boys.
 
 # About the Project
-Data for this project was collected as part of a doctoral dissertation completed at Indiana University Bloomington, USA. It is currently being analyzed as part of an in progress book project which seeks to write a history of the 'Birkenau Boys,' a group of 89 child Holocaust survivors. All data analysis for the project is conduced in RStudio.
+Data for this project was collected as part of a doctoral dissertation completed at Indiana University Bloomington, USA. It is currently being analyzed as part of an in progress book project which seeks to write a history of the 'Birkenau Boys,' a group of 89 child Holocaust survivors. All data analysis for the project is conduced in R. 
 
 # Metadata 
 The following table contains explanations for all column names which do not consist of dates.
