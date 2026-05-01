@@ -12,6 +12,7 @@ The following table contains explanations for all column names which do not cons
 | LastName          |           | 
 | FirstName        |              | 
 | BirkenauTransport       |          | 
+| BirkenauNumber      |               | 
 | PostBirkenau      |               | 
 
 # Data Sources 
