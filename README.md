@@ -11,12 +11,12 @@ The following table contains explanations for all column names which do not cons
 |-------------|------------------------------|
 | LastName          | Legal surname assigned at birth          | 
 | FirstName        |  Chosen given name adopted after the war             | 
-| BirkenauTransport       |          | 
-| BirkenauNumber      |               | 
-| PostBirkenau      |               | 
+| BirkenauTransport       | The German-assignned indicator given to train transports between Terezin and Birkenau         | 
+| BirkenauNumber      | The German-assigned prisoner number given to newly arrived prisoners              | 
+| PostBirkenau      | The concentration camps to which individuals were sent to after their forced departure from Birkenau             | 
 | Nationality      | In which nation was the individual born              | 
 | DiedBeforeLiberation      | Is the individual alive on 1 May 1945              | 
-| PostwarNation     |               | 
+| PostwarNation     | The nation(s) where an individual emigrated to after the war              | 
 
 # Data Sources 
 All data in this repository was sources from the following archives: United States Holocaust Memorial Museum, State Museum at Auschwitz-Birkenau, Jewish Museum Berlin, Yad Vashem, The Wiener Library, and Beit Terezin. Additional biographical data was sourced from John Freund, Ed., _After those Fifty Years: Memories of the Birkenau Boys._ Toronto: Self-published, 2008. Specific archival collections and citations will soon be uploaded to this README.  
