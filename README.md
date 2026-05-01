@@ -10,6 +10,8 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 # Metadata 
 The following table contains explanations for all column names which do not consist of dates.
 
+# Usage 
+
 | Column Name | Description                  |
 |-------------|------------------------------|
 | LastName          | Legal surname assigned at birth          | 
