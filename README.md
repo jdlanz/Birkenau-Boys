@@ -13,6 +13,9 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 git clone https://github.com/jdlanz/Birkenau-Boys.git \
 cd Birkenau-Boys
 
+**Note:** Before running the script, ensure `BirkenauBoys.csv` is placed in a `data/` 
+subfolder within the project root. 
+
 ### Setup
 
 Install the required packages by running the following in your R console:
@@ -20,9 +23,6 @@ Install the required packages by running the following in your R console:
 ```r
 install.packages(c("tidyverse", "ggplot2", "lubridate"))
 ```
-
-**Note:** Before running the script, ensure `BirkenauBoys.csv` is placed in a `data/` 
-subfolder within the project root. 
  
 ### Load Packages and Data
 
