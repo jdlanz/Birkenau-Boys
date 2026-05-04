@@ -9,7 +9,7 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 
 # Usage 
 
-## Setup
+### Setup
 
 Install the required packages by running the following in your R console:
 
