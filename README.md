@@ -9,8 +9,8 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 
 # Usage 
 
-### Clone the repository
-git clone https://github.com/jsmith/BirkenauBoys-Analysis.git
+# Clone the repository
+git clone https://github.com/jsmith/Birkenau-Boys.git
 cd Birkenau-Boys
 
 ### Setup
