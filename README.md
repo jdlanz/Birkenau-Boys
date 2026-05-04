@@ -21,6 +21,13 @@ Install the required packages by running the following in your R console:
 install.packages(c("tidyverse", "ggplot2", "lubridate"))
 ```
 
+**Note:** Before running the script, ensure `BirkenauBoys.csv` is placed in a `data/` 
+subfolder within the project root. Your directory structure should look like this:
+
+ Birkenau-Boys/
+ ├── data/
+│   └── BirkenauBoys.csv
+ └── your_script.R
 ### Load Packages and Data
 
 ```{r setup, message=FALSE, warning=FALSE}
