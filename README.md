@@ -29,7 +29,7 @@ library(ggplot2)
 library(lubridate)
 
 # Load the dataset
-BBoys <- read.csv("data/BirkenauBoys.csv")
+BBoys <- read_csv("data/BirkenauBoys.csv")
 ```
 
 # Metadata 
