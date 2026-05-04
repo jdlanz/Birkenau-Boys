@@ -9,7 +9,7 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 
 # Usage 
 
-### Clone the repository
+### Clone the Repository
 git clone https://github.com/jdlanz/Birkenau-Boys.git \
 cd Birkenau-Boys
 
