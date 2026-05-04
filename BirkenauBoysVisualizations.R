@@ -1,6 +1,6 @@
 library(tidyverse)
 library(ggplot2)
-library (lubridate)
+library(lubridate)
 
 BBoys <- read_csv("data/BirkenauBoys.csv")
 
