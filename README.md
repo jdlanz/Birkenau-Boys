@@ -22,12 +22,8 @@ install.packages(c("tidyverse", "ggplot2", "lubridate"))
 ```
 
 **Note:** Before running the script, ensure `BirkenauBoys.csv` is placed in a `data/` 
-subfolder within the project root. Your directory structure should look like this:
-
- Birkenau-Boys/
- ├── data/
- │   └── BirkenauBoys.csv
- └── BirkenauBoysVisualizations.R
+subfolder within the project root. 
+ 
 ### Load Packages and Data
 
 ```{r setup, message=FALSE, warning=FALSE}
