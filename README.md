@@ -9,6 +9,25 @@ Users will require R (at least version 4.0.0) and RStudio (at least version 2024
 
 # Usage 
 
+## Setup
+
+Install the required packages by running the following in your R console:
+
+```r
+install.packages(c("tidyverse", "ggplot2", "lubridate"))
+```
+
+### Load Packages and Data
+
+```{r setup, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+
+# Load the dataset
+BirkenauBoys <- read.csv("data/BirkenauBoys.csv")
+```
+
 # Metadata 
 The following table contains explanations for all column names which do not consist of dates.
 
